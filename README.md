@@ -18,5 +18,6 @@ a simple program for saving and reading logs, built in **Python + CustomTkinter*
    git clone ###
    cd log-viewer
 2. make sure u have everything important:
+   ```bash
    pip install -r requirements.txt
    python log_saver_main.py
