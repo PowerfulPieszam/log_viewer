@@ -1,4 +1,4 @@
-[INFO] Howdy!
 [PROCESS] loading txt file. . .
+[INFO] Howdy!
 [ERROR] configuration file not found
 [INFO] Howdy again!
