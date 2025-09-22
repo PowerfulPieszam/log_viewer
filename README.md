@@ -15,7 +15,7 @@ a simple program for saving and reading logs, built in **Python + CustomTkinter*
 ## How to launch
 1. clone repo:
    ```bash
-   git clone ###
+   git clone (https://github.com/PowerfulPieszam/log_viewer)
    cd log-viewer
 2. make sure u have everything important:
    ```bash
